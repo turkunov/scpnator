@@ -1,0 +1,61 @@
+{
+  "images" : [
+    {
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "16x16"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "16x16"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "32x32"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "32x32"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "128x128"
+    },
+    {
+      "filename" : "AQAfWUlGYCtduTXnR6K11PSTEQwuEHY4mV-qbIbODk2kpU1WrMPgbeKrhYfz_TwS-QYXCtgcI-v5Wf4vi_qNBwKUHeg(3).png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "128x128"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "256x256"
+    },
+    {
+      "filename" : "AQAfWUlGYCtduTXnR6K11PSTEQwuEHY4mV-qbIbODk2kpU1WrMPgbeKrhYfz_TwS-QYXCtgcI-v5Wf4vi_qNBwKUHeg(2).png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "256x256"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "512x512"
+    },
+    {
+      "filename" : "AQAfWUlGYCtduTXnR6K11PSTEQwuEHY4mV-qbIbODk2kpU1WrMPgbeKrhYfz_TwS-QYXCtgcI-v5Wf4vi_qNBwKUHeg(1).png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "512x512"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
